@@ -1,0 +1,18 @@
+Model: Deep Learning
+
+Here i am using Deep Learning Model for the prediction of the wine variety using words in description/review.
+Model won't be able to taste wine, but it could possibly identify the wine based on it's description.
+
+Feature extraction:applied imputations on the data like Null data is being engineered.
+
+Model accuracy: 0.69
+i.e. 69%
+
+Actionable insights on data:
+1.Dealing with Null values.
+2.Description of the wine is preferred.
+3.Ignoring attributes like (user_name, review_title, country) 
+ 
+ 
+
+ 
